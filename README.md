@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 我叫张智和， 就读于福州大学。
+- 🔭 
 - 🌱 我正在搬炼自己的代码能力。对前端还有java 都有涉及。
 - 👯 I’m looking to collaborate on software engineering.
 - 🤔 I’m looking for help with life goal.
